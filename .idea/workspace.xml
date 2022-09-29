@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f15dfa4b-9a31-4b27-a0bb-2e8c1eb4e5e6" name="Changes" comment="Adicionando vizinho e criando testes">
-      <change afterPath="$PROJECT_DIR$/src/br/com/cod3r/cm/excecao/ExplosaoException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/cod3r/cm/modelo/Campo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cod3r/cm/modelo/Campo.java" afterDir="false" />
+    <list default="true" id="f15dfa4b-9a31-4b27-a0bb-2e8c1eb4e5e6" name="Changes" comment="Adicionando metodo abrir e exececao para fim do jogo">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664406258187</updated>
-      <workItem from="1664406259618" duration="12586000" />
+      <workItem from="1664406259618" duration="12965000" />
     </task>
     <task id="LOCAL-00001" summary="Criando os pacotes">
       <created>1664408097457</created>
@@ -120,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664420199147</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adicionando metodo abrir e exececao para fim do jogo">
+      <created>1664421229493</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664421229493</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +144,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criando os pacotes" />
     <MESSAGE value="Adicionando vizinho e criando testes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando vizinho e criando testes" />
+    <MESSAGE value="Adicionando metodo abrir e exececao para fim do jogo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando metodo abrir e exececao para fim do jogo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
