@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f15dfa4b-9a31-4b27-a0bb-2e8c1eb4e5e6" name="Changes" comment="Atualizando gitignore">
+    <list default="true" id="f15dfa4b-9a31-4b27-a0bb-2e8c1eb4e5e6" name="Changes" comment="Adicionado mais metodos de teste">
+      <change afterPath="$PROJECT_DIR$/src/br/com/cod3r/cm/aplicacao/Programa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/cod3r/cm/modelo/Campo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cod3r/cm/modelo/Campo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/cod3r/cm/modelo/Tabuleiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/cod3r/cm/modelo/Tabuleiro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/br/com/cod3r/cm/modelo/CampoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/br/com/cod3r/cm/modelo/CampoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled" afterDir="false" />
     </list>
@@ -73,7 +75,20 @@
       <recent name="br.com.cod3r.cm.modelo" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Programa">
+    <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.cod3r.cm.aplicacao.Programa" />
+      <module name="CampoMinado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.cod3r.cm.aplicacao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CampoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CampoMinado" />
       <extension name="coverage">
@@ -91,6 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Programa" />
         <item itemvalue="JUnit.CampoTest" />
       </list>
     </recent_temporary>
@@ -103,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664406258187</updated>
-      <workItem from="1664406259618" duration="16732000" />
+      <workItem from="1664406259618" duration="24617000" />
     </task>
     <task id="LOCAL-00001" summary="Criando os pacotes">
       <created>1664408097457</created>
@@ -140,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664421439608</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adicionado mais metodos de teste">
+      <created>1664492963694</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664492963695</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,14 +185,15 @@
     <MESSAGE value="Adicionando vizinho e criando testes" />
     <MESSAGE value="Adicionando metodo abrir e exececao para fim do jogo" />
     <MESSAGE value="Atualizando gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualizando gitignore" />
+    <MESSAGE value="Adicionado mais metodos de teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado mais metodos de teste" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CampoMinado$CampoTest.ic" NAME="CampoTest Coverage Results" MODIFIED="1664491575018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/CampoMinado$CampoTest.ic" NAME="CampoTest Coverage Results" MODIFIED="1664497028800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>br.com.cod3r.cm.modelo.*</FILTER>
     </SUITE>
   </component>
